@@ -1,1 +1,1 @@
-# Nestjs Tailwind Ecommerce Website Like Amazon
+# Nextjs Tailwind Ecommerce Website Like Amazon
